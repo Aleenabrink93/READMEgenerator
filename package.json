@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleenabrink93/READMEgenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleenabrink93/READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/Aleenabrink93/READMEgenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
