@@ -1,7 +1,7 @@
 
 # Readme Generator
 ## Descriptions
-It generates readme.md file with all information needed in markdown language
+It generates readme.md file with all information needed for a professional readme file in markdown language
 
 ## Table of contents
 * [Licenses](#licenses)
