@@ -13,3 +13,6 @@ If you have any questions, feel free to reach me at aleenabrink@gmail.com
 GitHub: [aleenabrink93](https://github.com/Aleenabrink93)
 
 ## Preview
+
+https://github.com/Aleenabrink93/READMEgenerator/assets/126618768/35bd7f92-cb22-472e-9020-7fb0f96771dc
+
